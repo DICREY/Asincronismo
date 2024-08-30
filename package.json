@@ -7,7 +7,6 @@
     "index": "node src/callback/index.js",
     "promise1": "node src/promise/index.js",
     "promise2": "node src/promise/challenge.js"
-
   },
   "keywords": [
     "javascrip"
